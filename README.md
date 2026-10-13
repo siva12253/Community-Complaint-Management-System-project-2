@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neighborly — Community Complaint Management System
 
 A full-stack community issue reporting and tracking application. The frontend and backend are separate projects, communicate through a JSON REST API, and can be run independently during development.
@@ -89,3 +90,6 @@ python manage.py check
 # In frontend/
 npm run build
 ```
+=======
+# Community-Complaint-Management-System-project-2
+>>>>>>> 9d7e57698a062f125523069e308f6f972fd52872
